@@ -1,0 +1,5 @@
+4
+ 1 $  O menino do pijama listrado  $ D $ 0 $ 0.000000 $ 
+ 2 $  O segredo de seus olhos  $ D $ 1073741824 $ 0.000000 $ 
+ 3 $  500 dias com ela  $ C $ 1073741824 $ 0.000000 $ 
+ 3 $ casa $ D $ 0 $ 0.000000 $ 
